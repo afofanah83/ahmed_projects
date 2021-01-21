@@ -1,4 +1,4 @@
-#incude <studio.h>
+#include <stdio.h>
 
 int main()
 {
